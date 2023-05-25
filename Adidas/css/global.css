@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Fira Sans", Arial, sans-serif;
+}
+
+body {
+    background: #FFFFFF;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+
+}
+
+
+
+
+
